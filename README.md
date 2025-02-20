@@ -1,0 +1,1 @@
+This example demonstrates a common error in Swift related to argument labels. When defining a function with labeled parameters, all arguments must be explicitly labeled when calling the function. Failure to provide the labels results in a compiler error, making the code non-functional.
